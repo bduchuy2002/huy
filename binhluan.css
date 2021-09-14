@@ -1,0 +1,11 @@
+img {
+  border-radius: 50%;
+  width: 50px;
+}
+.container {
+  display: flex;
+  align-items: center;
+}
+.name {
+  padding-right: 30px;
+}
